@@ -1,3 +1,3 @@
 def multiply(a,b):
-    # new comment
-    return a*b
+    #comment from ardak
+    return a*b   
